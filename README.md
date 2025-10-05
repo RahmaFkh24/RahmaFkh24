@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering and Information Systems Student at the École Polytechnique <br>💻 Passionate about Web Development and Artificial Intelligence<br>🚀 Skilled in designing and developing scalable full-stack applications with modern tools and technologies<br><br>I'm a motivated and curious computer science student who loves turning innovative ideas into functional, user-friendly applications.<br>My academic and professional experiences have allowed me to build real-world projects using frameworks like React, Node.js, Laravel, and Flutter, while exploring machine learning and data-driven solutions for real-world challenges.<br><br>Currently, I’m focusing on building intelligent, efficient systems and exploring how AI can be applied to areas like automotive technology and social media analytics.</p>
+<p align="left">🎓 Software Engineering and Information Systems Student at the École Polytechnique <br>💻 Passionate about Web Development and Artificial Intelligence<br>🚀 Skilled in designing and developing scalable full-stack applications with modern tools and technologies<br><br>I'm a motivated and curious computer science student who loves turning innovative ideas into functional, user-friendly applications.<br>My academic and professional experiences have allowed me to build real-world projects using frameworks like React, Node.js and Flutter, while exploring machine learning and data-driven solutions for real-world challenges.<br><br>Currently,I'm Building smart, scalable systems to solve real-world problems in automotive, social media, and other cutting-edge domains.</p>
 
 ###
 
